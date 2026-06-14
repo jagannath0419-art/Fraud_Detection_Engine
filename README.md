@@ -1,5 +1,7 @@
 Project Name :- Fraud Detection Engine
 
+"Real-time transactional fraud engine using Kafka & ML. (Note: Download creditcard.csv from Kaggle due to GitHub file size limits)."
+
 Description: An enterprise-grade financial security pipeline that flags fraudulent credit card transactions instantly.
 
 Tech: Apache Kafka, Python (FastAPI), Docker Compose, Machine Learning (.pkl).
