@@ -1,7 +1,3 @@
-Intern Credentials :-
-
-Intern ID : CITS2769 , Name : Jagannath Sandip Ansurkar, Domain : Data Analytics.
-
 Project Name :- Fraud Detection Engine
 
 Description: An enterprise-grade financial security pipeline that flags fraudulent credit card transactions instantly.
